@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item_1"
+        android:title="dialog"/>
+    <item
+        android:id="@+id/menu_item_2"
+        android:title="dialog"/>
+
+    <item
+        android:id="@+id/menu_item_3"
+        android:title="layout task"/>
+
+    <item
+        android:id="@+id/menu_item_4"
+        android:title="language rate"/>
+</menu>
